@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">maps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="latitud">Latitud</string>
+    <string name="longitud">Longitud</string>
+    <string name="getAddress">Obtener Direccion</string>
+    <string name="myLocation">Mi ubicacion</string>
+    <string name="yourLocation">Tu Direccion es: </string>
+
+    <string name="sendLatitud">latitud</string>
+    <string name="sendLongitud">longitud</string>
+
+    <string name="pointA">Punto de Referencia</string>
+    <string name="pointB">Punto Definido por Usuario</string>
+
+    <string name="fuera">Te encuestras fuera del area definida</string>
+    <string name="dentro">Te encuestras dentro del area definida</string>
+</resources>
